@@ -1,6 +1,7 @@
 # MSP430FR5969 Rocket Sensor Project
 This is an embedded project for Rocket Taiwan Cup, RTC 2026.
 Using TI's board MSP430FR5969 to implement Relay Controlling, Altimeter Module MS5607 Data Collecting, and SD Card Storing.
+> Please Ignore the folder `~/motor_control` and `~/relay_control`, both are the code for the testing phase.
 ## MSP430FR5969
 - Document
   https://www.ti.com/lit/ds/symlink/msp430fr5969.pdf
